@@ -1,0 +1,9 @@
+{
+  "name": "Guardian - Tourist Safety App",
+  "description": "A comprehensive safety application for travelers featuring SOS triggers, real-time safe-zone alerts, and a secure digital vault.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
